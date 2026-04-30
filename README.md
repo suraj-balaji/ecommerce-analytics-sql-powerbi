@@ -124,7 +124,7 @@ E-commerce-analysis-project/
 
 ## 📌 Author
 
-Suraj Balaji Bhagaye
+Suraj Balaji Bhagaye </br>
 email-id: besuraj28@gmail.com
 
 ---
