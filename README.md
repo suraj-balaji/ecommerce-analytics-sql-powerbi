@@ -48,7 +48,15 @@ E-commerce-analysis-project/
 ```
 
 ---
+## Data & Files Note
 
+- Full dataset is not uploaded due to size constraints
+- A sample dataset is provided for reference
+- Power BI (.pbix) file is not included due to size limits
+- Dashboard screenshots are available in the images folder
+- Full project files can be shared upon request
+
+---
 ## 📊 Dashboards Included
 
 ### 1. Executive Dashboard
@@ -116,7 +124,8 @@ E-commerce-analysis-project/
 
 ## 📌 Author
 
-Suraj Balji
+Suraj Balaji Bhagaye
+email-id: besuraj28@gmail.com
 
 ---
 
